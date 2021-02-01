@@ -1,0 +1,2 @@
+mx/com/disoftware/BuildConfig.java
+ mx.com.disoftware.BuildConfig

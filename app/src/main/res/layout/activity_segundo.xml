@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:padding="10dp"
+    tools:context=".SegundoActivity">
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/textViewSegundoActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Soy la segunda actividad"
+        android:textSize="50sp"
+        android:textAlignment="center"/>
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/buttonSegundaActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:text="Volver"/>
+</androidx.appcompat.widget.LinearLayoutCompat>
