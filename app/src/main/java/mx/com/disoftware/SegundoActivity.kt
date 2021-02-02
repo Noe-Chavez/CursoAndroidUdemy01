@@ -1,5 +1,7 @@
 package mx.com.disoftware
 
+import android.app.Activity
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
@@ -24,6 +26,9 @@ class SegundoActivity : AppCompatActivity() {
         textViewSegundoActivity.text = parametro
 
         buttonSegundaActivity.setOnClickListener {
+            val intent = Intent()
+            intent.putExtra("cadenaSegundaActivity", "Vengo de la activity $this")
+            setResult(Activity.RESULT_OK, intent)
             /**
              * Mata esta actividad al dar click, para que se elemine del Back stack (pila de activities)
              */
@@ -32,4 +37,5 @@ class SegundoActivity : AppCompatActivity() {
         }
 
     }
+
 }
