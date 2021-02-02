@@ -16,6 +16,8 @@ class MainActivity : AppCompatActivity() {
 
         buttonMainActivity.setOnClickListener {
             val intent = Intent(this, SegundoActivity::class.java)
+            // mandando un valor al prozimo activity
+            intent.putExtra("cadena", "vengo de $this")
             startActivity(intent)
         }
 

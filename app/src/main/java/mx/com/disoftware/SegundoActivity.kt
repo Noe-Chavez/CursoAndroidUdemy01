@@ -6,12 +6,22 @@ import android.widget.Button
 import android.widget.TextView
 
 class SegundoActivity : AppCompatActivity() {
+
+    private var parametro: String? = ""
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_segundo)
 
         val textViewSegundoActivity = findViewById<TextView>(R.id.textViewSegundoActivity)
         val buttonSegundaActivity = findViewById<Button>(R.id.buttonSegundaActivity)
+
+        // Recibiendo parámetros.
+        intent.extras?.let {
+            parametro = it.getString("cadena")
+        }
+
+        textViewSegundoActivity.text = parametro
 
         buttonSegundaActivity.setOnClickListener {
             /**
