@@ -4,16 +4,44 @@
         "source": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\build\\intermediates\\res\\merged\\debug\\anim_zoom_forward_in.xml.flat",
+        "source": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\src\\main\\res\\anim\\zoom_forward_in.xml"
     },
     {
         "merged": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
+        "merged": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_out.xml.flat",
+        "source": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\build\\intermediates\\res\\merged\\debug\\navigation_main_graph.xml.flat",
+        "source": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\src\\main\\res\\navigation\\main_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide.xml.flat",
+        "source": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\src\\main\\res\\anim\\slide.xml"
+    },
+    {
+        "merged": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
         "merged": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\build\\intermediates\\res\\merged\\debug\\anim_zoom_forward_out.xml.flat",
+        "source": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\src\\main\\res\\anim\\zoom_forward_out.xml"
     },
     {
         "merged": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
@@ -24,6 +52,10 @@
         "source": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\build\\intermediates\\res\\merged\\debug\\anim_blink.xml.flat",
+        "source": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\src\\main\\res\\anim\\blink.xml"
+    },
+    {
         "merged": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
@@ -32,12 +64,12 @@
         "source": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_down.xml.flat",
+        "source": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\src\\main\\res\\anim\\slide_down.xml"
     },
     {
-        "merged": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\build\\intermediates\\res\\merged\\debug\\navigation_main_graph.xml.flat",
-        "source": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\src\\main\\res\\navigation\\main_graph.xml"
+        "merged": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
         "merged": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
@@ -56,8 +88,12 @@
         "source": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\build\\intermediates\\res\\merged\\debug\\anim_rotate.xml.flat",
+        "source": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\build\\intermediates\\res\\merged\\debug\\anim_sample_animation.xml.flat",
+        "source": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\src\\main\\res\\anim\\sample_animation.xml"
     },
     {
         "merged": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_first.xml.flat",
@@ -66,9 +102,5 @@
     {
         "merged": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\noe_f\\AndroidStudioProjects\\CursoAndroidUdemy01\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     }
 ]
