@@ -4,6 +4,7 @@ import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.View
 import android.widget.Button
+import androidx.core.os.bundleOf
 import androidx.navigation.fragment.findNavController
 
 class FirstFragment : Fragment(R.layout.fragment_first) {
@@ -15,7 +16,8 @@ class FirstFragment : Fragment(R.layout.fragment_first) {
 
         buttonFirstFragment.setOnClickListener {
             findNavController() // clase que controla la navegabilidad de los fragmentos.
-                .navigate(R.id.action_firstFragment_to_secondFragment)// id de la navigabilidad (ver main_graph.xml)
+                .navigate(R.id.action_firstFragment_to_secondFragment, // id de la navigabilidad (ver main_graph.xml)
+                bundleOf("nombre" to "Melchiah", "edad" to 28)) // bundleOf: se utiliza para mandar los argumentos al sigiente fragmento.
         }
 
     }
