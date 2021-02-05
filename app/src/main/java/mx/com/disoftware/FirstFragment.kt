@@ -15,9 +15,11 @@ class FirstFragment : Fragment(R.layout.fragment_first) {
         val buttonFirstFragment = view.findViewById<Button>(R.id.button_first_fragment)
 
         buttonFirstFragment.setOnClickListener {
-            findNavController() // clase que controla la navegabilidad de los fragmentos.
-                .navigate(R.id.action_firstFragment_to_secondFragment, // id de la navigabilidad (ver main_graph.xml)
-                bundleOf("nombre" to "Melchiah", "edad" to 28)) // bundleOf: se utiliza para mandar los argumentos al sigiente fragmento.
+            /**
+             * Safe args: ya sabe qué parámetros hay que mandar al segundo fragment y en dónde se encuentra el segundo fragment.
+             */
+            val action = FirstFragmentDirections.actionFirstFragmentToSecondFragment("Melchiah", 27)
+            findNavController().navigate(action)
         }
 
     }
