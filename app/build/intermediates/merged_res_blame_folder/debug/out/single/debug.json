@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/melchiah/AndroidStudioProjects/Activities/app/build/intermediates/res/merged/debug/navigation_product_graph.xml.flat",
+        "source": "/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/navigation/product_graph.xml"
+    },
+    {
         "merged": "/home/melchiah/AndroidStudioProjects/Activities/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
         "source": "/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/drawable/ic_launcher_background.xml"
     },
@@ -20,6 +24,10 @@
         "source": "/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/anim/rotate.xml"
     },
     {
+        "merged": "/home/melchiah/AndroidStudioProjects/Activities/app/build/intermediates/res/merged/debug/layout_fragment_card.xml.flat",
+        "source": "/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/layout/fragment_card.xml"
+    },
+    {
         "merged": "/home/melchiah/AndroidStudioProjects/Activities/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
         "source": "/home/melchiah/AndroidStudioProjects/Activities/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
@@ -30,6 +38,10 @@
     {
         "merged": "/home/melchiah/AndroidStudioProjects/Activities/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/melchiah/AndroidStudioProjects/Activities/app/build/intermediates/res/merged/debug/layout_fragment_product.xml.flat",
+        "source": "/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/layout/fragment_product.xml"
     },
     {
         "merged": "/home/melchiah/AndroidStudioProjects/Activities/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",

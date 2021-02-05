@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:2:1-23:12
 MERGED from [androidx.navigation:navigation-dynamic-features-fragment:2.3.3] /home/melchiah/.gradle/caches/transforms-2/files-2.1/cc39b351f3977fd173d1e40c3efb9ccc/jetified-navigation-dynamic-features-fragment-2.3.3/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.3] /home/melchiah/.gradle/caches/transforms-2/files-2.1/cfdfcff6eb804ac14d585a81750664fb/navigation-fragment-ktx-2.3.3/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/melchiah/.gradle/caches/transforms-2/files-2.1/26dff3481eabdff5bb5c0f9834423ff8/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
@@ -72,25 +72,25 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-alpha06] /home/mel
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/melchiah/.gradle/caches/transforms-2/files-2.1/76e976d3fa702c2ad35388b519013bcf/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/melchiah/.gradle/caches/transforms-2/files-2.1/0cd05b24159429fc26d770ef4bb8094b/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:2:1-19:12
-INJECTED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:2:1-23:12
 	package
 		ADDED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:3:5-32
 		INJECTED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml
 		INJECTED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml
-		ADDED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:2:1-23:12
 		INJECTED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml
-		ADDED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:2:1-23:12
 		INJECTED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:5:5-19:19
+ADDED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:5:5-21:19
 MERGED from [com.google.android.material:material:1.2.1] /home/melchiah/.gradle/caches/transforms-2/files-2.1/7e86fbfbfb2b8b1d58c6c911f6c8f10f/material-1.2.1/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.2.1] /home/melchiah/.gradle/caches/transforms-2/files-2.1/7e86fbfbfb2b8b1d58c6c911f6c8f10f/material-1.2.1/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/melchiah/.gradle/caches/transforms-2/files-2.1/8a4eb0402cf46588b06fba062f25d51f/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
@@ -116,19 +116,24 @@ MERGED from [com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/t
 	android:theme
 		ADDED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:11:9-48
 activity#mx.com.disoftware.MainActivity
-ADDED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:12:9-20:20
 	android:name
 		ADDED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:12:19-47
+nav-graph
+ADDED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:14:13-67
+CONVERTED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:14:13-67
+	android:value
+		ADDED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:14:24-65
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:18:27-74
 uses-sdk
 INJECTED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml
@@ -317,3 +322,27 @@ ADDED from [com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/tr
 		ADDED from [com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:16:120-143
 	android:name
 		ADDED from [com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:16:14-95
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:card+data:path:/+data:scheme:deeplinkejem
+ADDED from [product_graph] /home/melchiah/AndroidStudioProjects/Activities/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/navigation/product_graph.xml:18:9-20:45
+action#android.intent.action.VIEW
+ADDED from [product_graph] /home/melchiah/AndroidStudioProjects/Activities/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/navigation/product_graph.xml:18:9-20:45
+	android:name
+		ADDED from [product_graph] /home/melchiah/AndroidStudioProjects/Activities/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/navigation/product_graph.xml:18:9-20:45
+category#android.intent.category.DEFAULT
+ADDED from [product_graph] /home/melchiah/AndroidStudioProjects/Activities/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/navigation/product_graph.xml:18:9-20:45
+	android:name
+		ADDED from [product_graph] /home/melchiah/AndroidStudioProjects/Activities/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/navigation/product_graph.xml:18:9-20:45
+category#android.intent.category.BROWSABLE
+ADDED from [product_graph] /home/melchiah/AndroidStudioProjects/Activities/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/navigation/product_graph.xml:18:9-20:45
+	android:name
+		ADDED from [product_graph] /home/melchiah/AndroidStudioProjects/Activities/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/navigation/product_graph.xml:18:9-20:45
+data
+ADDED from [product_graph] /home/melchiah/AndroidStudioProjects/Activities/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/navigation/product_graph.xml:18:9-20:45
+ADDED from [product_graph] /home/melchiah/AndroidStudioProjects/Activities/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/navigation/product_graph.xml:18:9-20:45
+ADDED from [product_graph] /home/melchiah/AndroidStudioProjects/Activities/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/navigation/product_graph.xml:18:9-20:45
+	android:path
+		ADDED from [product_graph] /home/melchiah/AndroidStudioProjects/Activities/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/navigation/product_graph.xml:18:9-20:45
+	android:host
+		ADDED from [product_graph] /home/melchiah/AndroidStudioProjects/Activities/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/navigation/product_graph.xml:18:9-20:45
+	android:scheme
+		ADDED from [product_graph] /home/melchiah/AndroidStudioProjects/Activities/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/navigation/product_graph.xml:18:9-20:45

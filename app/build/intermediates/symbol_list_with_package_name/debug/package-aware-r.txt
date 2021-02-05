@@ -1700,6 +1700,7 @@ id action_menu_presenter
 id action_mode_bar
 id action_mode_bar_stub
 id action_mode_close_button
+id action_secondFragment_to_product_graph
 id action_text
 id actions
 id activity_chooser_view_content
@@ -1726,6 +1727,7 @@ id bottom
 id bounce
 id buttonPanel
 id button_first_fragment
+id button_go_second_fragment_product_second
 id button_second_fragment
 id cache_measures
 id cancel_action
@@ -1760,6 +1762,7 @@ id date_picker_actions
 id decelerate
 id decelerateAndComplete
 id decor_content_parent
+id deepLink
 id default_activity_button
 id deltaRelative
 id dependency_ordering
@@ -1804,6 +1807,7 @@ id fixed
 id flip
 id floating
 id forever
+id fragmentCard
 id fragment_container_view
 id fragment_container_view_tag
 id ghost_view
@@ -1903,6 +1907,8 @@ id percent
 id pin
 id position
 id postLayout
+id productFragment
+id product_graph
 id progress_action
 id progress_circular
 id progress_horizontal
@@ -2114,7 +2120,9 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout dynamic_feature_install_fragment
+layout fragment_card
 layout fragment_first
+layout fragment_product
 layout fragment_second
 layout mtrl_alert_dialog
 layout mtrl_alert_dialog_actions
@@ -2180,6 +2188,7 @@ layout text_view_without_line_height
 mipmap ic_launcher
 mipmap ic_launcher_round
 navigation main_graph
+navigation product_graph
 plurals mtrl_badge_content_description
 string abc_action_bar_home_description
 string abc_action_bar_up_description
@@ -2220,6 +2229,7 @@ string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+string hello_blank_fragment
 string hello_first_fragment
 string hello_second_fragment
 string hide_bottom_view_on_scroll_behavior

@@ -17,7 +17,7 @@
 13-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:8:20-72
 14
 15    <application
-15-->/home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:5:5-19:19
+15-->/home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:5:5-21:19
 16        android:allowBackup="true"
 16-->/home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:6:9-35
 17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -35,54 +35,79 @@
 24        android:theme="@style/Theme.Activities" >
 24-->/home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:11:9-48
 25        <activity android:name="mx.com.disoftware.MainActivity" >
-25-->/home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:12:9-18:20
+25-->/home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:12:9-20:20
 25-->/home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:12:19-47
-26            <intent-filter>
-26-->/home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:13:13-17:29
-27                <action android:name="android.intent.action.MAIN" />
-27-->/home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:14:17-69
-27-->/home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:14:25-66
-28
-29                <category android:name="android.intent.category.LAUNCHER" />
-29-->/home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:16:17-77
-29-->/home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:16:27-74
-30            </intent-filter>
-31        </activity>
-32        <!-- The activities will be merged into the manifest of the hosting app. -->
-33        <activity
-33-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:12:5-271
-34            android:name="com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity"
-34-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:12:15-102
-35            android:enabled="false"
-35-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:12:103-126
-36            android:exported="false"
-36-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:12:127-151
-37            android:launchMode="singleInstance"
-37-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:12:204-239
-38            android:process=":playcore_missing_splits_activity"
-38-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:12:152-203
-39            android:stateNotNeeded="true" />
-39-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:12:240-269
-40        <activity
-40-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:13:5-226
-41            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
-41-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:13:15-95
-42            android:enabled="false"
-42-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:13:96-119
-43            android:exported="false"
-43-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:13:120-144
-44            android:stateNotNeeded="true"
-44-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:13:145-174
-45            android:theme="@style/Theme.PlayCore.Transparent" /> <!-- The service will be merged into the manifest of the hosting app. -->
-45-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:13:175-224
-46        <service
-46-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:16:5-145
-47            android:name="com.google.android.play.core.assetpacks.AssetPackExtractionService"
-47-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:16:14-95
-48            android:enabled="false"
-48-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:16:96-119
-49            android:exported="true" />
-49-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:16:120-143
-50    </application>
-51
-52</manifest>
+26
+27            <!-- para utilizar el deep link deeplinkejem://card indica donde esta ubucado y a donde debe de navegar -->
+28            <intent-filter>
+28-->/home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:15:13-19:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->/home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:16:17-69
+29-->/home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:16:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->/home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:18:17-77
+31-->/home/melchiah/AndroidStudioProjects/Activities/app/src/main/AndroidManifest.xml:18:27-74
+32            </intent-filter>
+33            <intent-filter>
+33-->[product_graph] /home/melchiah/AndroidStudioProjects/Activities/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/navigation/product_graph.xml:18:9-20:45
+34                <action android:name="android.intent.action.VIEW" />
+34-->[product_graph] /home/melchiah/AndroidStudioProjects/Activities/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/navigation/product_graph.xml:18:9-20:45
+34-->[product_graph] /home/melchiah/AndroidStudioProjects/Activities/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/navigation/product_graph.xml:18:9-20:45
+35
+36                <category android:name="android.intent.category.DEFAULT" />
+36-->[product_graph] /home/melchiah/AndroidStudioProjects/Activities/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/navigation/product_graph.xml:18:9-20:45
+36-->[product_graph] /home/melchiah/AndroidStudioProjects/Activities/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/navigation/product_graph.xml:18:9-20:45
+37                <category android:name="android.intent.category.BROWSABLE" />
+37-->[product_graph] /home/melchiah/AndroidStudioProjects/Activities/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/navigation/product_graph.xml:18:9-20:45
+37-->[product_graph] /home/melchiah/AndroidStudioProjects/Activities/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/navigation/product_graph.xml:18:9-20:45
+38
+39                <data android:scheme="deeplinkejem" />
+39-->[product_graph] /home/melchiah/AndroidStudioProjects/Activities/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/navigation/product_graph.xml:18:9-20:45
+39-->[product_graph] /home/melchiah/AndroidStudioProjects/Activities/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/navigation/product_graph.xml:18:9-20:45
+40                <data android:host="card" />
+40-->[product_graph] /home/melchiah/AndroidStudioProjects/Activities/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/navigation/product_graph.xml:18:9-20:45
+40-->[product_graph] /home/melchiah/AndroidStudioProjects/Activities/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/navigation/product_graph.xml:18:9-20:45
+41                <data android:path="/" />
+41-->[product_graph] /home/melchiah/AndroidStudioProjects/Activities/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/navigation/product_graph.xml:18:9-20:45
+41-->[product_graph] /home/melchiah/AndroidStudioProjects/Activities/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/navigation/product_graph.xml:18:9-20:45
+42            </intent-filter>
+43        </activity>
+44        <!-- The activities will be merged into the manifest of the hosting app. -->
+45        <activity
+45-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:12:5-271
+46            android:name="com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity"
+46-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:12:15-102
+47            android:enabled="false"
+47-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:12:103-126
+48            android:exported="false"
+48-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:12:127-151
+49            android:launchMode="singleInstance"
+49-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:12:204-239
+50            android:process=":playcore_missing_splits_activity"
+50-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:12:152-203
+51            android:stateNotNeeded="true" />
+51-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:12:240-269
+52        <activity
+52-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:13:5-226
+53            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+53-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:13:15-95
+54            android:enabled="false"
+54-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:13:96-119
+55            android:exported="false"
+55-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:13:120-144
+56            android:stateNotNeeded="true"
+56-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:13:145-174
+57            android:theme="@style/Theme.PlayCore.Transparent" /> <!-- The service will be merged into the manifest of the hosting app. -->
+57-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:13:175-224
+58        <service
+58-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:16:5-145
+59            android:name="com.google.android.play.core.assetpacks.AssetPackExtractionService"
+59-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:16:14-95
+60            android:enabled="false"
+60-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:16:96-119
+61            android:exported="true" />
+61-->[com.google.android.play:core:1.7.2] /home/melchiah/.gradle/caches/transforms-2/files-2.1/249563fc6078b4dd4233defbecc08b93/jetified-core-1.7.2/AndroidManifest.xml:16:120-143
+62    </application>
+63
+64</manifest>

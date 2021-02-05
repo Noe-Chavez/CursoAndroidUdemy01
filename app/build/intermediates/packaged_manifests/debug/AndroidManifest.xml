@@ -23,10 +23,22 @@
         android:testOnly="true"
         android:theme="@style/Theme.Activities" >
         <activity android:name="mx.com.disoftware.MainActivity" >
+
+            <!-- para utilizar el deep link deeplinkejem://card indica donde esta ubucado y a donde debe de navegar -->
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="deeplinkejem" />
+                <data android:host="card" />
+                <data android:path="/" />
             </intent-filter>
         </activity>
         <!-- The activities will be merged into the manifest of the hosting app. -->

@@ -1,7 +1,40 @@
 [
   {
     "name": "main_graph",
-    "navigationXmlIds": [],
+    "navigationXmlIds": [
+      "product_graph"
+    ],
     "deepLinks": []
+  },
+  {
+    "name": "product_graph",
+    "navigationXmlIds": [],
+    "deepLinks": [
+      {
+        "schemes": [
+          "deeplinkejem"
+        ],
+        "host": "card",
+        "port": -1,
+        "path": "/",
+        "sourceFilePosition": {
+          "mSourceFile": {
+            "mSourceFile": {
+              "path": "/home/melchiah/AndroidStudioProjects/Activities/app/src/main/res/navigation/product_graph.xml"
+            },
+            "mDescription": "product_graph"
+          },
+          "mSourcePosition": {
+            "mStartLine": 17,
+            "mStartColumn": 8,
+            "mStartOffset": 703,
+            "mEndLine": 19,
+            "mEndColumn": 44,
+            "mEndOffset": 796
+          }
+        },
+        "isAutoVerify": false
+      }
+    ]
   }
 ]
